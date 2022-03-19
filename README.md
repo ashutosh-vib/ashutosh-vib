@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashutosh Singh
 - 👀 I’m interested in Everything
-- 🌱 I’m currently React
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
